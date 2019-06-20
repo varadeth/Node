@@ -19,5 +19,8 @@
   "homepage": "https://github.com/varadeth/Node#readme",
   "devDependencies": {
     "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
