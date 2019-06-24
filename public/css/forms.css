@@ -1,0 +1,20 @@
+.form-control {
+    margin: 1rem 0;
+}
+
+.form-control label,
+.form-control input {
+    display: block;
+    width: 100%;
+}
+
+.form-control input {
+    border: 1px solid rgb(219, 174, 76);
+    font: inherit;
+    border-radius: 2px;
+    padding: 0.3rem 0.3rem;
+}
+
+.form-control input:focus {
+    outline-color: #00695c;
+}
